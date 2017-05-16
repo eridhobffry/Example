@@ -6,6 +6,6 @@ public class test {
 		int t = 2;
 		int z = 2;
 		int y = 15;
- 		System.out.println( "Hasil:  " + (x + y - z));
+ 		System.out.println( "Jumlah:  " + (x + y - z - t));
 	}
 }
