@@ -4,6 +4,6 @@ public class test {
 
 		int x = 1;
 		int y = 14;
- 		System.out.println( "Hasil:  " + (x + y));
+ 		System.out.println( "Jadinya:  " + (x + y));
 	}
 }
