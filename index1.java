@@ -1,8 +1,8 @@
 public class test {
 
 	public static void main(String[] args){
-
-		int x = 1;
+        int w = 15;
+  	int x = 1;
 		int t = 2;
 		int z = 2;
 		int y = 15;
